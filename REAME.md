@@ -10,7 +10,7 @@
 
 The Python script reads a C++ file line by line and identifies comments within the code. The comments can be single-line comments starting with `//` or multi-line comments enclosed between `/*` and `*/`.
 
-### Function to Check if a Line is a Comment
+#### Function to Check if a Line is a Comment
 
 ```python
 def is_comment(line):
