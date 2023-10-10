@@ -1,10 +1,10 @@
 ### Group members
 
-121891 Salomon Metre <br>
-131548 Nathan Ruru <br>
-134977 Jeff Munyigi <br>
-119314 Oguta Cassey Moses <br> 
-129040 Wambua James Mutua <br>
+121891      Salomon Metre <br>
+131548      Nathan Ruru <br>
+134977      Jeff Munyigi <br>
+119314      Oguta Cassey Moses <br> 
+129040      Wambua James Mutua <br>
 
 ### Logic of Task 1
 
